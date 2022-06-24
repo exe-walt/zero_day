@@ -1,1 +1,1 @@
-#zero_day
+printing the uname word
